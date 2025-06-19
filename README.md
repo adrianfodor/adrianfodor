@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Fodor</h1>
 <h3 align="center">I am a student from Hungary.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fodor-adrian&label=Profile%20views&color=0e75b6&style=flat" alt="fodor-adrian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianfodor&label=Profile%20views&color=0e75b6&style=flat" alt="adrianfodor" /> </p>
 
 - 🌱 I’m currently learning **everything :), but mostly web development.**
 
